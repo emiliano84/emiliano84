@@ -8,9 +8,9 @@
 
 ## Stats
 
-[![github stats](https://github-readme-stats.vercel.app/api/top-langs?username=Panda-Sharp)](https://github.com/Panda-Sharp)
-
 [![github stats](https://github-readme-stats.vercel.app/api?username=Panda-Sharp)](https://github.com/Panda-Sharp)
+
+[![github stats](https://github-readme-stats.vercel.app/api/top-langs?username=Panda-Sharp)](https://github.com/Panda-Sharp)
 
 <!--
 **emiliano84/emiliano84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,4 +26,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
