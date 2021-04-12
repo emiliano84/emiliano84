@@ -1,4 +1,5 @@
-## Hi there 👋, I'm PandaSharp 🐼
+## Hi there 👋
+### I'm PandaSharp 🐼
 ### A passionate UWP Developer
 
 ## Connect with me:
