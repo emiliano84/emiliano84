@@ -1,9 +1,5 @@
 ## Hi there 👋
-#### I'm PandaSharp 🐼
-#### A passionate UWP Developer
-
-## I’m currently working on
-- 
+#### I'm PandaSharp 🐼 A passionate UWP Developer
 
 ## Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/emilianomagliocca/)
